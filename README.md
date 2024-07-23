@@ -1,9 +1,15 @@
 # TermuxAccessLock
 :: penggunaan ::
+>>
 • git clone https://github.com/ariadesupriyatna/TermuxAccessLock
+>>
 • cd TermuxAccessLock
+>>
 • mv .bashrc /$HOME
+>>
 • source .bashrc
+>>
+>>
 >>
 password: master
 >>
